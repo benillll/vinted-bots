@@ -1,5 +1,5 @@
 {
-    "token": "TOKEN_BOT",
-    "adminIDs": ["ID_USER_ADMIN"],
-    "guildID": "ID_SERVER"
+    "token": "process.env.TOKEN",
+    "adminIDs": ["420673956874420257"],
+    "guildID": "947927146842714182"
 }
